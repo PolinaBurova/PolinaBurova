@@ -8,6 +8,9 @@
 
 📫 Let's connect! You can reach me at [polina.v.burova@gmail.com] or on [https://www.linkedin.com/in/polinaburova/].
 
+## Resume
+
+You can view and download my resume [here](https://github.com/PolinaBurova/PolinaBurova/blob/main/PolinaLindezaCV.pdf).
 
 
 <!---
