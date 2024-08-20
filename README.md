@@ -1,4 +1,4 @@
-👋 Hi there! I'm Polina, a recent Data Science postgraduate based in Switzerland. I specialize in SQL/Python analytics, machine learning, and data visualization. I'm currently seeking job or internship opportunities in Data Science within Switzerland.
+👋 Hi there! I'm Polina, a Data Science postgraduate based in Switzerland. I specialize in SQL/Python analytics, machine learning, and data visualization. I'm currently seeking job or internship opportunities in Data Science within Switzerland.
 
 🔍 My GitHub showcases a variety of projects demonstrating my ability to transform data into actionable insights. Explore my repositories to see my work in areas like exploratory data analysis, data preprocessing, and predictive modeling.
 
