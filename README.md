@@ -4,8 +4,6 @@
 
 🛠️ Technical Skills: SQL, Python, Power BI, Tableau, Machine Learning, Data Preprocessing, Visualization, Statistical Inference.
 
-🎓 Postgraduate in Data Science | Passionate about continuous learning and applying data-driven solutions.
-
 📫 Let's connect! You can reach me at [polina.v.burova@gmail.com] or on [https://www.linkedin.com/in/polinaburova/].
 
 ## Resume
