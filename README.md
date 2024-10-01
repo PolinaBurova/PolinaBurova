@@ -8,7 +8,7 @@
 
 ## Resume
 
-You can view and download my resume [here](https://github.com/PolinaBurova/PolinaBurova/blob/main/PolinaLindeza_CV.pdf).
+You can view and download my resume [here](https://github.com/PolinaBurova/PolinaBurova/blob/main/PolinaBurovaLindeza_CV.pdf).
 
 
 <!---
